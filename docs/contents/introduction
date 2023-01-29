@@ -1,0 +1,64 @@
+Introduction
+The acquisition of the DNA sequence of human genome was a landmark in biotechnology in 2001.1
+However, after over 20 years for the analysis and application of the human genome information in
+clinical settings still we have many riddles to unravel. Limitations in research tools for gene
+transcription, translation and the bioinformatics to assess exactly how DNA sequences are
+transcribed, translated and affect the phenotype obstructed the optimal use of genome sequences.
+In addition there still are many poorly understood aspects of processing of peptides and proteins
+which hamper the true applicability of the human genome sequence information.
+
+For many diseases the associated immunology is a key field to understand better. However, the
+comprehensive analysis of the immunopeptidome, a critical component for understanding the
+immune system, still lags behind the genomic information. In this review the immunopeptidome is
+defined as the set of peptides presented by Major Histocompatibility Complex class I (MHCI)
+molecules. the immunopeptidome, defined as the repertoire of all peptides presented by MHC class I
+molecules in a given set of cells, can be determined empirically by mass spectrometry or
+computationally Peters, B., Nielsen, M. &amp; Sette, A. T cell epitopepredictions. Annu. Rev. Immunol. 38,
+123–145 (2020). by applying algorithms for peptide binding to the set of MHC allomorphs expressed
+by the cell. Exact knowledge of the role of the immunopeptidome in health and disease, in relation
+to the genome information, can directly fuel and guide the development of next-generation
+vaccines, novel cell therapies and immunotherapies against autoimmunity, infectious diseases and
+cancers.
+
+Especially the part of the immunopeptidome comprising the MHCI antigenic peptides has been an
+intense area of research the last decade due to the new possibilities of high throughput ribosome
+profiling, mass pectrometry and next generation sequencing allowing to investigate translation in an
+
+unbiased manner. Although the immunopeptidome and especially the MHCI peptides can be derived
+from the degradation of proteins that are present in a cell, they can also be generated directly by
+transcription and translation of short regions within the cellular transcriptome. This process, called
+non canonical translation, involves the transcription of a short stretch of DNA and translation of that
+short stretch of RNA into a short peptide, which is then transported to the endoplasmic reticulum
+(ER) and loaded onto an MHC molecule. The MHC-peptide complex is then transported to the surface
+of the cell, where it can be recognized by T cells. This process allows T cells to recognize and respond
+to specific proteins that are being produced within a cell, rather than just those that are present as
+degradation products. It has proven to be an important mechanism for the immune system to
+monitor the activity of cells and to identify and respond to cells that are producing abnormal or
+potentially harmful proteins (REFS).
+
+In this review we explore the field of so-called non-canonical translation products in relation to
+disease and immunological processes. The human genome with its 3 billion base pairs has a large
+capacity of potential translation products and only part of the coding capacity seems to be explored
+with respect to the role of non-canonical translation. What is the total number of peptides if take
+into account all reading frames on both strands and directions? Which ones are transcribed and
+expressed? How do cells deal with translational “noise”. i.e. nonsense (m)RNA’s and their
+subsequent translation? Which peptides are recognized and selected in the immune system? Is only
+a small subset of the total genome functionally expressed or are there large amounts of open reading
+frames present but never expressed ? At least according the classical meaning of expression in terms
+of an biochemical activity or is a subset of peptides mainly important for immunological processes?
+
+Potentially immunogenic alternative open reading frame products can be discovered under different
+names in literature. The list of similar or overlapping terms coined to refer to these peptides is long
+and due to the relative freshness of the observations the list is getting long and somewhat
+confusing. In this review will provide a framework to classify the different types of orfs and their
+translation products. We also describe the mechanistic background of these non canonical orf’s or
+alternative orf’s. In various paragraphs we will deal in a chronological overview with the first
+discovery of alternative Open Reading Frame products (altORF) or the many related terms: Peptons,
+Neoantigens, Micropeptides, Small Open Reading Frame (smORF), Cryptic peptides, Defective
+ribosomal initiation products (DRiP), Non-canonical translation products, micro Open Reading Frame
+(mORF), non-canonical HLA-binding peptides (noncHLAp), antisense proteins, ghost proteins. These
+proteins and peptides can be generated by a variety of separate mechanisms for example by both
+programmed and non-programmed frameshifting, internal ribosome entry sites, and repeat
+associated non ATG translation. The summary of the various terms and classification of several types
+of non-canonical translation mechanisms may be helpful to design better diagnostics, therapies and
+vaccines..
