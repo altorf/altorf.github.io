@@ -12,6 +12,6 @@ jobs:
       - name: install mkdocs
         run: pip install mkdocs
       - name: build
-        run: cd mkdocs && mkdocs build
+        run: cd docs && mkdocs build
       - name: deploy
-        run: cd mkdocs && mkdocs gh-deploy --force
+        run: cd docs && mkdocs gh-deploy --force
