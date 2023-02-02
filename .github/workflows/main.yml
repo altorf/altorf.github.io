@@ -13,7 +13,5 @@ jobs:
         run: pip install mkdocs
       - name: build
         run: mkdocs build
-      - name: deploy to branch
+      - name: deploy
         run: mkdocs gh-deploy --force
-      - name: deploy to pages
-        uses: actions/deploy-pages@v1
