@@ -22,7 +22,6 @@ cancers.
 Especially the part of the immunopeptidome comprising the MHCI antigenic peptides has been an
 intense area of research the last decade due to the new possibilities of high throughput ribosome
 profiling, mass pectrometry and next generation sequencing allowing to investigate translation in an
-
 unbiased manner. Although the immunopeptidome and especially the MHCI peptides can be derived
 from the degradation of proteins that are present in a cell, they can also be generated directly by
 transcription and translation of short regions within the cellular transcriptome. This process, called
