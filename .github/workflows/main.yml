@@ -12,4 +12,4 @@ jobs:
       - name: install mkdocs
         run: pip install mkdocs
       - name: deploy
-        run: mkdocs gh-deploy
+        run: mkdocs gh-deploy --force
