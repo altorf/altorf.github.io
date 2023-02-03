@@ -1,5 +1,5 @@
 Introduction
-The acquisition of the DNA sequence of human genome was a landmark in biotechnology in 2001.1
+The acquisition of the DNA sequence of human genome was a landmark in biotechnology in 2001.
 However, after over 20 years for the analysis and application of the human genome information in
 clinical settings still we have many riddles to unravel. Limitations in research tools for gene
 transcription, translation and the bioinformatics to assess exactly how DNA sequences are
