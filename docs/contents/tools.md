@@ -1,6 +1,6 @@
 | Name         | Reference                                | Link                                                     |   
 | ------       | -----------                              | -------                                                  |   
-| CPC2         | Kang et al., 2017                        | https://github.com/gao-lab/CPC2_standalone               |                                                                                              
+| CPC2         | Kang et al., 2017                        | https://github.com/gao-lab/CPC2_standalone               |
 | FLOSS        | Ingolia et al. 2014                      |                                                          |   
 | ORF-RATER    | Fields et al., 2015                      | https://github.com/alexfields/ORF-RATER                  |   
 | ORFquant     | Calviello et al., 2020                   | https://github.com/lcalviell/ORFquant                    |   
