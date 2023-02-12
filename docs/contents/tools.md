@@ -16,4 +16,4 @@
 | TOC          | Chew et al. 2013                         |                                                            |   
 | micPDP       | Bazzini et al. 2014                      |                                                            |   
 | sORF finder  | Hanada et al., 2010                      | <http://labo.bio.kyutech.ac.jp/%7Ekohanada/Softwares.htm>  |
-| PRICE        |                                          | <https://github.com/erhard-lab/price>                      |
+| PRICE        | Erhard et al , 2018                      | <https://github.com/erhard-lab/price>                      |
