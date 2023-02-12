@@ -1,11 +1,7 @@
 Extraordinary antigens or how to find them.
+
 Arthur Kroon
 Version 12022023 
-
-Topic: A systematic current overview of human antigens originating from both canonical and non-canonical translation processes with significance for medical applications. 
-The working hypothesis is: “Any peptide encoded in host cells and expressed during distress may be a potential target for a diagnostic, therapeutic or vaccine design. Irrespective whether this peptide has a proven functionality and independent whether derived from a canonical or non-canonical process”.  
-
-“The theoretical number of all possible peptides by far exceeds the number of functional peptides encoded and translated in the currently identified and described peptidome. An identifiable collection of genomic encoded peptides, expressed due to erroneous translation during a disease state can be used as therapeutic or diagnostic targets.” 
 
 Introduction
 The acquisition of the DNA sequence of human genome was a landmark in biotechnology in 2001.1 However, after over 20 years for the analysis and application of the human genome information in clinical settings still we have many riddles to unravel. Limitations research tools for gene transcription, translation and the bioinformatics to assess exactly how DNA sequences are transcribed, translated and affect the phenotype obstructed the optimal use of genome sequences. In addition there still are many poorly understood aspects of processing of peptides and proteins which hamper the true applicability of the human genome sequence information.
