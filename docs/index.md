@@ -2,7 +2,7 @@
 
 Arthur Kroon
 
-Version 28012023
+Version 20230212
 
 Topic: A systematic current overview of human antigens originating from both canonical and non-
 canonical translation processes with significance for medical applications.
