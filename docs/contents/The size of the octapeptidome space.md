@@ -75,6 +75,7 @@ A******* 48
 Previously, this was roughly the same step in the process where I discovered some sequences had gone missing. Now, if I count the number of unique sequences before separating them, I get 1955004643. Since 1241124045 + 713880598 = 1955004643, they're all accounted for this time!
 Side note: I've searched and Selenocysteine doesn't appear anywhere, even though I allowed for it. So in this sense we can keep regarding the space as 20^8 instead of 21^8. However, this does emphasize that not all amino acids are created equally! I'm now curious to know what the distribution of amino acids is in these results.
 
+![binning all 100](https://user-images.githubusercontent.com/123867206/222919767-d091ad4d-cbf7-4e7b-97ed-1cfafb93480d.png)
 
 
  2nd attempt 4 stran translation Original: 1241326723
