@@ -15,5 +15,5 @@ encoded and translated in the currently identified and described peptidome. An i
 collection of genomic encoded peptides, expressed due to erroneous translation during a disease
 state can be used as therapeutic or diagnostic targets.”
 
-The goal of this website is to deapply and design bioinformatics tools to analyse the ever growing 
-biological datasetsandcreate new insights in the role of the underexplored coding capacity of the human genome.
+The goal of this website is to apply and design bioinformatics tools to analyse the ever growing 
+biological datasets and create new insights in the role of the underexplored coding capacity of the human genome.
