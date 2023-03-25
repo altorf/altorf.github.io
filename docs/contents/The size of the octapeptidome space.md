@@ -65,7 +65,6 @@ A******* 48
 *****A*A 1
 
 
-
 The * is the symbol for any stop codon. (If we wanted to, we could distinguish between stop codons.) So there were 16802 cases found of 8 consecutive stop codons.  the total number of unique mismatches is 713.880.598
 
 
