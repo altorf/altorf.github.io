@@ -54,18 +54,18 @@ If we count the number of these unique "matches" I get 1241124045.
 All others are "mismatches". Here are the first 10 mismatches alphabetically.
 
 &&&&&&& 16802
-*******A 133
-******A* 6
-*****A** 1
-***A**** 1
-**A***** 6
-*A****** 8
-A******* 48
-******AA 4
-*****A*A 1
+&&&&&&&A 133
+&&&&&&A& 6
+&&&&&A&& 1
+&&&A&&&& 1
+&&A&&&&& 6
+&A&&&&&& 8
+A&&&&&&& 48
+&&&&&&AA 4
+&&&&&A&A 1
 
 
-The * is the symbol for any stop codon. (If we wanted to, we could distinguish between stop codons.) So there were 16802 cases found of 8 consecutive stop codons.  the total number of unique mismatches is 713.880.598
+The & is the symbol for any stop codon. (If we wanted to, we could distinguish between stop codons.) So there were 16802 cases found of 8 consecutive stop codons.  the total number of unique mismatches is 713.880.598
 
 
 
