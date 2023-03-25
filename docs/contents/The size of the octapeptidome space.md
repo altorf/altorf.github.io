@@ -53,7 +53,7 @@ If we count the number of these unique "matches" I get 1241124045.
 
 All others are "mismatches". Here are the first 10 mismatches alphabetically.
 
-******** 16802
+&&&&&&& 16802
 *******A 133
 ******A* 6
 *****A** 1
